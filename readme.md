@@ -30,6 +30,9 @@ This script changes the wallpaper of the machine
 ```shell
 git clone https://github.com/favoursyre/wallpaper-changer.git && cd wallpaper-changer
 ```
+```shell
+pip install cv2
+```
 
 ## Usage
 
